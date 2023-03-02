@@ -1,2 +1,2 @@
 # odin-recipes
-list of food recipes
+list of food recipes for my website!
